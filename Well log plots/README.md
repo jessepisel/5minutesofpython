@@ -10,3 +10,7 @@ We can color in single logs for quick lithology views
 Or we can plot up entire cross sections and visualize formation tops
 
 ![Cross section](https://github.com/jessepisel/5minutesofpython/blob/master/Well%20log%20plots/cross_section.JPG?raw=true "Example Cross section")
+
+If we have directional survey data we can plot horizontal wells in a 3d view
+
+![Horizontal well](https://github.com/jessepisel/5minutesofpython/blob/master/Well%20log%20plots/horizontalwell.JPG?raw=true "Horizontal well plot")
