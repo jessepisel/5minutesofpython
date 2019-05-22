@@ -11,6 +11,10 @@ Or we can plot up entire cross sections and visualize formation tops
 
 ![Cross section](https://github.com/jessepisel/5minutesofpython/blob/master/Well%20log%20plots/cross_section.JPG?raw=true "Example Cross section")
 
-If we have directional survey data we can plot horizontal wells in a 3d view
+If we have directional survey data we can plot horizontal wells in a 3d view with `matplotlib`
 
 ![Horizontal well](https://github.com/jessepisel/5minutesofpython/blob/master/Well%20log%20plots/horizontalwell.JPG?raw=true "Horizontal well plot")
+
+Even better, with [PyVista](https://docs.pyvista.org/) we can plot up an entire well pad with horizontal wells colored by gamma-ray values and add stratigraphic surfaces.
+It's even interactive inside of a jupyter notebook.
+![PyVista well pad](https://github.com/jessepisel/5minutesofpython/blob/master/Well%20log%20plots/PyVista.gif?raw=true "PyVista well pad")
